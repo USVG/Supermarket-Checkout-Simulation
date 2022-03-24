@@ -15,6 +15,7 @@ All checkouts are saved to the program when it is running and these checkouts ca
 Required Software
 -------
 Java SDK 11.0.14
+
 Open JavaFX 11.0.2
 
 
