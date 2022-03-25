@@ -3,6 +3,8 @@ Supermarket Checkout Simulation Project
 
 Supermarket checkout simulation aims to replicate a physical supermarket checkout, through the use of interactive JavaFX menus.
 
+You can find images of the simulation in motion in the Product Images directory within this repository.
+
 Functionality
 -------
 My design is based around simplicity, like a branch on a tree it gets more detailed as you open each feature. For example, instead of having separate checkouts for cash, card and point card payments, I decided to integrate it all into one singular modular checkout. The checkout still offers all the flexibility of three separate checkouts, as it provides the user the payment options once they have finished scanning their items. This way the program has less clutter and makes more sense. 
