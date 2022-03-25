@@ -3,7 +3,7 @@ Supermarket Checkout Simulation Project
 
 Supermarket checkout simulation aims to replicate a physical supermarket checkout, through the use of interactive JavaFX menus.
 
-You can find images of the simulation in motion in the Product Preview directory within this repository.
+You can find images of the simulation in motion in the Project Preview directory within this repository.
 
 Functionality
 -------
